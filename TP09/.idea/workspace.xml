@@ -80,6 +80,37 @@
       <option name="presentableId" value="Default" />
       <updated>1579085317515</updated>
     </task>
+    <task id="LOCAL-00001" summary="test git">
+      <created>1579091536946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579091536947</updated>
+    </task>
+    <task id="LOCAL-00002" summary="remove test git">
+      <created>1579091666939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579091666939</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test git" />
+    <MESSAGE value="remove test git" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove test git" />
   </component>
 </project>

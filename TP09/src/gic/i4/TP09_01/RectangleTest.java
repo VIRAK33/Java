@@ -10,6 +10,6 @@ public class RectangleTest extends Rectangle {
         RectangleTest rectangleTest = new RectangleTest(10, 5);
         System.out.println("The perimeter of rectangle is: "+ rectangleTest.calculatePerimeter());
         System.out.println("The surface of rectangle is: "+ rectangleTest.calculateSurface());
-
+        System.out.println("test se");
     }
 }
