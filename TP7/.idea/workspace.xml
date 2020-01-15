@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfc743d0-69d8-467a-a224-7820e197e23d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VlzBlDq4mMzgBpkJkVJngWymTu" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TP07_6_Mirroring">
+    <configuration name="TP07_3_Even_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.i4.itc.TP07_3_Even_Numbers" />
+      <module name="TP7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.i4.itc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TP07_4_Company_Profits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.i4.itc.TP07_4_Company_Profits" />
+      <module name="TP7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.i4.itc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TP07_5_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.i4.itc.TP07_5_Palindrome" />
+      <module name="TP7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.i4.itc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TP07_6_Mirroring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.i4.itc.TP07_6_Mirroring" />
+      <module name="TP7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.i4.itc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TP07_7_Escape_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.i4.itc.TP07_7_Escape_Characters" />
+      <module name="TP7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.i4.itc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TP07_3_Even_Numbers" />
+      <item itemvalue="Application.TP07_4_Company_Profits" />
+      <item itemvalue="Application.TP07_5_Palindrome" />
+      <item itemvalue="Application.TP07_6_Mirroring" />
+      <item itemvalue="Application.TP07_7_Escape_Characters" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TP07_6_Mirroring" />
+        <item itemvalue="Application.TP07_7_Escape_Characters" />
+        <item itemvalue="Application.TP07_5_Palindrome" />
+        <item itemvalue="Application.TP07_4_Company_Profits" />
+        <item itemvalue="Application.TP07_3_Even_Numbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfc743d0-69d8-467a-a224-7820e197e23d" name="Default Changelist" comment="" />
+      <created>1577842335166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577842335166</updated>
+    </task>
+    <servers />
+  </component>
+</project>
